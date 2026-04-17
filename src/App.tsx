@@ -21,6 +21,7 @@ function App() {
         <Link to="/original"><p>Original</p></Link>
         <Link to="/informativa"><p>Informativa</p></Link>
         <Link to="/usuario"><p>Usuario</p></Link>   
+        <Link to="/usuario"><p>Evidencia de clase 17/04 (solo para hacer commit)</p></Link> 
       </nav>
 
       <Routes>
